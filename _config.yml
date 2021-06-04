@@ -18,7 +18,7 @@ favicon: favicon.ico
 repository: l1030016144/l1030016144.github.io
 github_url: https://github.com/l1030016144
 url: http://www.l1030016144.com
-enforce_ssl: ityouknow.com
+enforce_ssl: l1030016144.com
 
 ## Gem
 plugins:
